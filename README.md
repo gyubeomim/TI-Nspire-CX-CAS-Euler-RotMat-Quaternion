@@ -16,3 +16,9 @@ then click `doc -> 6. Refresh Libraries` you can use it anywhere you want
 # RPY to Rotation Matrix  
 <img src="/pictures/rpy_to_rotmat.png" width="400" >
 
+<br /><br /><br />
+
+
+### Reference Sites
+https://en.wikipedia.org/wiki/Conversion_between_quaternions_and_Euler_angles#Euler_Angles_to_Quaternion_Conversion  
+http://quaternions.online/
