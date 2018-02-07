@@ -1,6 +1,6 @@
 # TI-Nspire-CX-CAS-Euler-RotMat-Quaternion
 Convert from Euler ZYX (RPY) to Rotation Matrix and Quaternion Using TI-Nspire-CX-CAS Calculator  
-Hope It'll help people who need this.  
+Hope It'll help people who need this.
 ##### (RPY is equal to Euler ZYX order by the way)  
   <br /><br />
 put `.tns` file to `MyLib` folder to use it globally.  
