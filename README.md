@@ -3,10 +3,12 @@ Convert from Euler ZYX (RPY) to Rotation Matrix and Quaternion Using TI-Nspire-C
   <br /><br /><br /><br />
   <br />
   
+  
 # RPY & Quaternion Converter  
-![RPY & Quaternion Converter](/pictures/rpy_quat.png)  
-  <br /><br /><br /><br />
-  <br />
+<img src="/pictures/rpy_quat.png" width="400" >
+  <br /><br /><br />
+  
   
 # RPY to Rotation Matrix  
-![RPY to Rotation Matrix](/pictures/rpy_to_rotmat.png)  
+<img src="/pictures/rpy_to_rotmat.png" width="400" >
+
