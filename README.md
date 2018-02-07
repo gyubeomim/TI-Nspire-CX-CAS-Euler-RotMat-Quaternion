@@ -5,7 +5,7 @@ Hope It'll help people who need this. (RPY is equal to Euler ZYX order by the wa
 put `.tns` file to `MyLib` folder to use it globally.  
 then click `doc -> 6. Refresh Libraries` you can use it anywhere you want
 
-  <br /><br /><br /><br /><br />
+  <br />
   
   
 # RPY & Quaternion Converter  
